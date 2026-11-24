@@ -1,0 +1,10 @@
+<!-- demo art, icon from Lucide (ISC license) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<rect width="600" height="600" fill="#E1DCCF"/>
+<circle cx="300" cy="292" r="196" fill="#F4F1E8" opacity="0.75"/>
+<ellipse cx="300" cy="470" rx="120" ry="12" fill="#141413" opacity="0.06"/>
+<g transform="translate(160 150) scale(11.6667)" fill="none" stroke="#141413" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round">
+<rect width="14" height="20" x="5" y="2" rx="2" ry="2" />
+  <path d="M12 18h.01" />
+</g>
+</svg>

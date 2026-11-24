@@ -1,0 +1,18 @@
+<!-- demo art, icon from Lucide (ISC license) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<rect width="600" height="600" fill="#ECE7DA"/>
+<circle cx="300" cy="292" r="196" fill="#F4F1E8" opacity="0.75"/>
+<ellipse cx="300" cy="470" rx="120" ry="12" fill="#141413" opacity="0.06"/>
+<g transform="translate(160 150) scale(11.6667)" fill="none" stroke="#141413" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round">
+<path d="m12 19 8-3" />
+  <path d="M14 6h-2" />
+  <path d="M18 8.172V5a1 1 0 00-1-1h-2a1 1 0 00-1 1v3.172" />
+  <path d="m20 11-8 3" />
+  <path d="M20 20a2 2 0 01-2 2h-4a2 2 0 01-2-2v-9a3 3 0 013-3h2a3 3 0 013 3z" />
+  <path d="M4 10h.01" />
+  <path d="M4 2h.01" />
+  <path d="M4 6h.01" />
+  <path d="M8 4h.01" />
+  <path d="M8 8h.01" />
+</g>
+</svg>
