@@ -1,0 +1,12 @@
+<!-- demo art, icon from Lucide (ISC license) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 640" width="360" height="640">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.55"/></linearGradient></defs>
+<rect width="360" height="640" fill="#403A35"/>
+<circle cx="180" cy="300" r="120" fill="#F4F1E8" opacity="0.06"/>
+<g transform="translate(84 204) scale(8)" fill="none" stroke="#F4F1E8" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.92">
+<path d="m11 10 3 3" />
+  <path d="M6.5 21A3.5 3.5 0 1 0 3 17.5a2.62 2.62 0 0 1-.708 1.792A1 1 0 0 0 3 21z" />
+  <path d="M9.969 17.031 21.378 5.624a1 1 0 0 0-3.002-3.002L6.967 14.031" />
+</g>
+<rect width="360" height="640" fill="url(#g)"/>
+</svg>

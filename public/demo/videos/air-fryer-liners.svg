@@ -1,0 +1,15 @@
+<!-- demo art, icon from Lucide (ISC license) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 640" width="360" height="640">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.55"/></linearGradient></defs>
+<rect width="360" height="640" fill="#2F3133"/>
+<circle cx="180" cy="300" r="120" fill="#F4F1E8" opacity="0.06"/>
+<g transform="translate(84 204) scale(8)" fill="none" stroke="#F4F1E8" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.92">
+<path d="M11.248 3c.273.1.808.53.747 1.36-.05.83-.938 1.2-.989 2.02-.06.78.333 1.24.727 1.62" />
+  <path d="M16.252 3c.268.1.794.53.745 1.36-.06.83-.923 1.2-.993 2.02-.05.78.338 1.24.725 1.62" />
+  <path d="M19.5 12 22 6" />
+  <path d="M4 12a1 1 0 00-.99 1.133A9 9 0 0012 21a9 9 0 008.99-7.867A1 1 0 0020 12z" />
+  <path d="M6.252 3c.268.1.794.53.745 1.36-.06.83-.923 1.2-.993 2.02-.05.78.338 1.24.735 1.62" />
+  <path d="M7 21h10" />
+</g>
+<rect width="360" height="640" fill="url(#g)"/>
+</svg>
